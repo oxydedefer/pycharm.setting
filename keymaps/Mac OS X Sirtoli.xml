@@ -1,0 +1,60 @@
+<keymap version="1" name="Mac OS X Sirtoli" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta ampersand" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta quotedbl" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorPasteSimple" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoLine" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="PasteMultiple" />
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="SaveAll" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="Synchronize" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+</keymap>
