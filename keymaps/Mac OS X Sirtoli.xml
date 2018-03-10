@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Synchronize" />
+  <action id="Tool_External Tools_flake8">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
