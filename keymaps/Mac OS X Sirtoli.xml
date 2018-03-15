@@ -14,6 +14,10 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta colon" second-keystroke="meta colon" />
+  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -24,6 +28,9 @@
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoLine" />
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta i" />
