@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="zcml" type="DTD" />
       <mapping ext="pt" type="HTML" />
+      <mapping pattern=".log" type="XML" />
     </extensionMap>
   </component>
 </application>
