@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <mapping ext="zcml" type="DTD" />
       <mapping ext="pt" type="HTML" />
-      <mapping pattern=".log" type="XML" />
+      <mapping ext="log" type="XML" />
     </extensionMap>
   </component>
 </application>
