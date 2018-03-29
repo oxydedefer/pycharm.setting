@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="log" type="ANSI Aware" />
       <mapping ext="zcml" type="DTD" />
+      <mapping ext="cpt" type="HTML" />
       <mapping ext="pt" type="HTML" />
       <mapping ext="log" type="XML" />
     </extensionMap>
