@@ -5,6 +5,7 @@
       <mapping ext="zcml" type="DTD" />
       <mapping ext="cpt" type="HTML" />
       <mapping ext="pt" type="HTML" />
+      <mapping ext="po" type="PLAIN_TEXT" />
       <mapping ext="log" type="XML" />
     </extensionMap>
   </component>
