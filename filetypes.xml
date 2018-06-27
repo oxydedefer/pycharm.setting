@@ -5,6 +5,7 @@
       <mapping ext="zcml" type="DTD" />
       <mapping ext="cpt" type="HTML" />
       <mapping ext="pt" type="HTML" />
+      <mapping ext="csv" type="Native" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bob" type="PLAIN_TEXT" />
