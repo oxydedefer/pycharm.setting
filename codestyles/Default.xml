@@ -6,8 +6,5 @@
   <codeStyleSettings language="Python">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="false" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
