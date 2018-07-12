@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="log" type="ANSI Aware" />
       <mapping ext="zcml" type="DTD" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="cpt" type="HTML" />
       <mapping ext="pt" type="HTML" />
       <mapping ext="csv" type="Native" />
