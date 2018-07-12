@@ -8,6 +8,7 @@
       <mapping ext="pt" type="HTML" />
       <mapping ext="csv" type="Native" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
