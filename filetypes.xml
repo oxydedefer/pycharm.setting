@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="log" type="ANSI Aware" />
       <mapping ext="zcml" type="DTD" />
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="cpt" type="HTML" />
@@ -18,7 +17,6 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bob" type="PLAIN_TEXT" />
       <mapping ext="po" type="PLAIN_TEXT" />
-      <mapping ext="log" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
