@@ -8,6 +8,7 @@
       <mapping ext="csv" type="Native" />
       <mapping ext="db" type="Native" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="Jnekinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileOLD" type="PLAIN_TEXT" />
       <mapping pattern="notification-cron" type="PLAIN_TEXT" />
