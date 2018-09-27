@@ -16,6 +16,7 @@
       <mapping pattern="sources_url" type="PLAIN_TEXT" />
       <mapping pattern="MakeFile" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="groovy" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="bob" type="PLAIN_TEXT" />
       <mapping ext="po" type="PLAIN_TEXT" />
